@@ -1,0 +1,7 @@
+Anniversaire de Paul  | Acheter un cadeau pour l'anniversaire de Paul | 2024-06-30 | En cours | Personnel
+Lavage  | La tâche consiste à laver la voiture le matin | 2024-07-01 | En cours | Voiture
+Révision de la voiture  | Faire réviser la voiture au garage | 2024-07-05 | En cours | Voiture
+Lecture  | Finir de lire le livre 'Les Misérables' | 2024-07-10 | En cours | Loisirs
+Nettoyage de la maison  | Faire le ménage complet de la maison | 2024-07-15 | En cours | Maison
+Courses hebdomadaires  | Acheter les produits nécessaires pour la semaine pour pas avoir à les cuisisner | 2024-07-20 | En cours | Maison
+Laver le chien | le chien est sale je dois le laver | 2024-07-01 | En cours | Personnel
