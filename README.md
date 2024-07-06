@@ -51,7 +51,7 @@ Un thread en arrière-plan vérifie régulièrement les rappels de tâches et af
 
 ## Auteur
 
-Ce programme a été développé par [Votre Nom].
+Ce programme a été développé par Fabien Téo KPEKPASSI.
 
 ## Remarques
 
